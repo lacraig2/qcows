@@ -1,5 +1,7 @@
 # qcows
 
+Note: This was such a nice idea until I hit the cap on total repository size (at a single qcow). We'll be moving forward with a self-hosted option at some point. I will be leaving this up.
+
 ## About
 
 These qcows were made for use with [PANDA](https://github.com/panda-re/panda) and were tested as such. They are largely cloud images that have been modified.
